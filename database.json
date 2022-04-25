@@ -1,0 +1,47 @@
+{
+  "users": {
+    "6289675970738@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "62895367096363@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6289675970738@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "62895367096363@s.whatsapp.net": {
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  }
+}

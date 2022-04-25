@@ -18,9 +18,9 @@ Trace:
 
 npm manifest: 
   {
-    "name": "Alphabot-Md",
+    "name": "Rafael-Botz",
     "version": "9.0.0",
-    "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+    "description": "Rahmad gey",
     "main": "zeeone.js",
     "directories": {
       "lib": "lib"
@@ -38,7 +38,7 @@ npm manifest:
       "baileys-md",
       "bot"
     ],
-    "author": "ZeeoneOfc",
+    "author": "Rafael",
     "license": "MIT",
     "dependencies": {
       "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
